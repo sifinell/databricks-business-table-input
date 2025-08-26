@@ -1,5 +1,7 @@
 # Business Table Input
 
+<img width="1681" height="1068" alt="image" src="https://github.com/user-attachments/assets/571fd2ba-75d8-40f0-9d29-48a6c3ee51c3" />
+
 A minimal Dash app to explore and edit Unity Catalog tables from Databricks. It supports unified auth in Databricks Apps and flexible local development via .env, environment variables, or UI-provided credentials.
 
 ## Features

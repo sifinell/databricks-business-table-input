@@ -1,0 +1,48 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local env/secrets (keep template)
+.env
+.env.*
+!.env.example
+
+# OS (macOS)
+.DS_Store
+
+# Editors/IDE
+.vscode/
+.idea/
+.cursor/
+
+# Logs
+*.log
+
+# Jupyter (if any)
+.ipynb_checkpoints/
